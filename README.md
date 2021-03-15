@@ -45,7 +45,7 @@ Working with the first team of the junior company for designing, implementing an
 Java, C/C++, Python, JavaScript, PHP, Go
 
 #### Technologies
-Android SDK, Django, RESTful Web Services, Git, Linux, Pongo
+Arduino, Embedded Systems, Android SDK, Python, Git, Linux, Windows, Machine Learning, Deep Learning, PLN, Computer Vision, Jupyter Notebook, TensorFlow e Keras
 
 #### Languages
 Portuguese, English, Spanish, Japanese
