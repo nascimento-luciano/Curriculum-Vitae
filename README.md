@@ -2,11 +2,11 @@
 
 [About](#about) | [Education](#education) | [Complementary Education](#complementary-education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
 
-Junior Developer starting my professional career. I am now looking for a position where I can make a difference using my skills while keep growing, and become a better developer than I was yesterday.
+I am a student of Control and Automation Engineering starting my professional career. I am currently looking for a position where I can make a difference by highlighting my skills while continuing to develop to become a better Engineer than I was yesterday.
 
 ## About
 
-I am a Brazilian guy with a big will to make difference in the world. I like very much to learn new stuff and programming for many hours. I always try to do my best in everything I do and to help others when I can do it. My goal is to become better and better and not be stagnant. I want to use my abilities and grow while I am doing new things.
+I am a simple person and at the same time a curious person and with an immense desire to make a difference. I am very fond of learning about new things and programming whenever I can. So I like to do my best in everything I do and when possible help others as well. My goal is to become better and better and not be inert. So, I intend to use my skills and grow while doing new things.
 
 ## Education
 
