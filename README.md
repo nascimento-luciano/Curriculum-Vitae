@@ -1,4 +1,4 @@
-## Luciano G. Silva
+## Luciano Silva do Nascimento
 
 [About](#about) | [Education](#education) | [Complementary Education](#complementary-education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
 
@@ -48,7 +48,7 @@ Java, C/C++, Python, JavaScript, PHP, Go
 Android SDK, Django, RESTful Web Services, Git, Linux, Pongo
 
 #### Languages
-Portuguese, English
+Portuguese, English, Spanish, Japanese
 
 ## Interests
 
