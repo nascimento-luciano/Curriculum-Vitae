@@ -10,12 +10,12 @@ I am a simple person and at the same time a curious person and with an immense d
 
 ## Education
 
-**BSc. in Information Systems** *May 2013 - September 2017* <br>
-Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) <br>
-Diamantina, Brazil <br>
-> Bachelor's Thesis: Algorithms for the Unrelated Parallel Machine Scheduling Problem with Sequence Dependent Setup Times (in portuguese). <br>
-> Advisor: Prof. Marcelo Ferreira Rego, MSc. <br>
-> GPA: 8.31/10 <br>
+**licentiate in Mathematics** *jan 2011 - june 2018* <br>
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
+Guarulhos, Brazil <br>
+> License's Thesis: The origin of school tragedy in Prussia: culture, education and the Greek spirit in the early writings of Nietzsche (in portuguese). <br>
+> Advisor: Prof. Hamilton Piva Dominguez, PhD. <br>
+> GPA: 7/10 <br>
 
 ## Complementary Education
 
