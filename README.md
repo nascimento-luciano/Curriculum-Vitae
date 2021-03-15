@@ -52,7 +52,7 @@ Portuguese, English, Spanish, Japanese
 
 ## Interests
 
-Technology, Programming, Combinatorial Optimization, Heuristics, Metaheuristics, Matheuristics, Network Security, Brazilian Viola, Traveling, Photography and Reading
+Technology, Programming, Engineering, Mathematical Applications, Philosophy, SciFi Movies, Animes, Photography and Reading
 
 ## Links
 
