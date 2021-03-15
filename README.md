@@ -56,5 +56,5 @@ Technology, Programming, Combinatorial Optimization, Heuristics, Metaheuristics,
 
 ## Links
 
-<a href="https://www.linkedin.com/in/luciano-silva-671866101/" target="_blank">
+<a href="https://www.linkedin.com/in/nascimento-luciano/" target="_blank">
 <img src="http://icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" alt="linkedin" hspace="50" height="48" width="48"></a>
