@@ -56,6 +56,16 @@ Create projects that integrate programming and electronics, using the Arduino bo
 **[Unraveling Industry 4.0](http://www.sp.senai.br/consulta-certificado?qrcode=0008041/5383137)** *February 2021* <br>
 Introduce Industry 4.0, providing the student with an introduction to the topic and obtaining the conceptual basis for the enabling technologies that support Industry 4.0.
 
+## Scholarship
+
+**[Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq](https://sei.cnpq.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=0788189&codigo_crc=E3444701&hash_download=c56c86effbc525931d28f647a8b13b2d06e274c54759384c23fa5f40d637323aea0cc9cc82721d47847260fb675637a2bad60a16445e69aa43befdfcdf0afe64&visualizacao=1&id_orgao_acesso_externo=0)** *June 2020* <br>
+Scientific Initiation (CI) Modality.
+Thesis: Antigone - a philosophical analysis (in portuguese). <br>
+
+
+**[Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES](https://sei.capes.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1076940&codigo_crc=275D7723&hash_download=b2bb49b8346775b64d1c1510582a7e97fbf37b2d682daf2c620c10ca312c1d0b789b2e3842e100516a1dc12e902f37976f686a7a1e078df3c834483b15d718e1&visualizacao=1&id_orgao_acesso_externo=0)** *February 2018* <br>
+Institutional Teaching Initiation Scholarship Program - Pibid, in the subproject Pibid.
+
 ## Experience
 
 **Backend Developer, [Studio Sol](https://www.studiosol.com.br/)** *December 2017 - Current* <br>
