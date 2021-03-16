@@ -31,13 +31,13 @@ Introduction to Version Control with Git and GitHub.
 **[Artificial Intelligence in Context Public Service](https://www.escolavirtual.gov.br/curso/377)** *March 2021* <br>
 This course brought concepts, suggestions of technologies and experiences of application of Artificial Intelligence (AI)
 
-**[Learning to program](https://codeiot.org.br/certificates/f87f6a5215a14cb7921ae6eef91dc46e)** *march 2021* <br>
+**[Learning to Program](https://codeiot.org.br/certificates/f87f6a5215a14cb7921ae6eef91dc46e)** *march 2021* <br>
 In this course, it aims to take the first steps in the universe of programming.
 
-**[Electronics: concepts and basic components](https://codeiot.org.br/certificates/fcb911abcf4e48cb9691c08899244515)** *March 2021* <br>
+**[Electronics: Concepts and Basic Components](https://codeiot.org.br/certificates/fcb911abcf4e48cb9691c08899244515)** *March 2021* <br>
 Learning about the concepts of electronics that make it possible to understand how things work and start creating your first circuits.
 
-**[Physical computing with Arduino](https://codeiot.org.br/certificates/8c1cd12526fa4635bbcb4f2c295f9ac9)** *March 2021 <br>
+**[Physical Computing with Arduino](https://codeiot.org.br/certificates/8c1cd12526fa4635bbcb4f2c295f9ac9)** *March 2021 <br>
 Create projects that integrate programming and electronics, using the Arduino board (or similar), sensors and actuators, to bring your ideas to life.
 
 ## Experience
