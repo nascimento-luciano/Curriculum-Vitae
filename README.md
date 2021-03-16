@@ -27,7 +27,7 @@ São Paulo, Brazil <br>
 > Technician's Thesis: Microbiological analysis of street foods by counting mesophilic bacteria (in portuguese). <br>
 > Advisor: Prof. Simony Rodrigues Ibanhez Vespasiano. <br>
 > GPA: - <br>
-**[Public Consultation - Professionals](https://www.crq4.org.br/default.php?p=consultapublica/resccppf.php)**
+**[Public Consultation - Professionals](https://www.crq4.org.br/default.php?p=consultapublica/resccppf.php)** <br>
 > CFQ - Conselho Federal de Química. (Federal Council of Chemistry) REG.N: 04488268
 
 ## Complementary Education
