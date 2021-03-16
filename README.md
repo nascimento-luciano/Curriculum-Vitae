@@ -31,7 +31,7 @@ Introduction to Version Control with Git and GitHub.
 **[Artificial Intelligence in Context Public Service](https://www.escolavirtual.gov.br/curso/377)** *March 2021* <br>
 This course brought concepts, suggestions of technologies and experiences of application of Artificial Intelligence (AI)
 
-**[Learning to Program](https://codeiot.org.br/certificates/f87f6a5215a14cb7921ae6eef91dc46e)** *march 2021* <br>
+**[Learning to Program](https://codeiot.org.br/certificates/f87f6a5215a14cb7921ae6eef91dc46e)** *March 2021* <br>
 In this course, it aims to take the first steps in the universe of programming.
 
 **[Electronics: Concepts and Basic Components](https://codeiot.org.br/certificates/fcb911abcf4e48cb9691c08899244515)** *March 2021* <br>
