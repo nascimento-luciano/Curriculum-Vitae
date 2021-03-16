@@ -17,6 +17,10 @@ Guarulhos, Brazil <br>
 > Advisor: Prof. Hamilton Piva Dominguez, PhD. <br>
 > GPA: 7/10 <br>
 
+**Barchelor in Control and Automation Engineering** *aug 2018 - at the moment* <br>
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
+Guarulhos, Brazil <br>
+
 ## Complementary Education
 
 **[Python for Android, iOS, Windows, Linux, Mac - Udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/learn/v4/overview)** *March 2021 - Current* <br>
