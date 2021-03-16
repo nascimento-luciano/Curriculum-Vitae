@@ -40,6 +40,9 @@ Learning about the concepts of electronics that make it possible to understand h
 **[Physical Computing with Arduino](https://codeiot.org.br/certificates/8c1cd12526fa4635bbcb4f2c295f9ac9)** *March 2021* <br>
 Create projects that integrate programming and electronics, using the Arduino board (or similar), sensors and actuators, to bring your ideas to life.
 
+**[Unraveling Industry 4.0](http://www.sp.senai.br/consulta-certificado?qrcode=0008041/5383137)** *February 2021* <br>
+Introduce Industry 4.0, providing the student with an introduction to the topic and obtaining the conceptual basis for the enabling technologies that support Industry 4.0.
+
 ## Experience
 
 **Backend Developer, [Studio Sol](https://www.studiosol.com.br/)** *December 2017 - Current* <br>
