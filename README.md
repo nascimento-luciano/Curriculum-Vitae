@@ -25,8 +25,11 @@ Developing with Python and Kivy for professional applications for desktop and mo
 **[Introduction to Python Programming - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)** *March 2021* <br>
 Learning the basics of programming through HTML, CSS, and Python. [Repository of the program built](https://github.com/nascimento-luciano/Programming).
 
-**[Git and Github for Beginners - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *October 2017* <br>
+**[Git and Github for Beginners - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *March 2021* <br>
 Introduction to Version Control with Git and GitHub.
+
+**[Artificial Intelligence in Context Public Service](https://www.escolavirtual.gov.br/curso/377)** *March 2021* <br>
+This course brought concepts, suggestions of technologies and experiences of application of Artificial Intelligence (AI)
 
 ## Experience
 
