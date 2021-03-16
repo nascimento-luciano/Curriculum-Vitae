@@ -37,7 +37,7 @@ In this course, it aims to take the first steps in the universe of programming.
 **[Electronics: Concepts and Basic Components](https://codeiot.org.br/certificates/fcb911abcf4e48cb9691c08899244515)** *March 2021* <br>
 Learning about the concepts of electronics that make it possible to understand how things work and start creating your first circuits.
 
-**[Physical Computing with Arduino](https://codeiot.org.br/certificates/8c1cd12526fa4635bbcb4f2c295f9ac9)** *March 2021 <br>
+**[Physical Computing with Arduino](https://codeiot.org.br/certificates/8c1cd12526fa4635bbcb4f2c295f9ac9)** *March 2021* <br>
 Create projects that integrate programming and electronics, using the Arduino board (or similar), sensors and actuators, to bring your ideas to life.
 
 ## Experience
