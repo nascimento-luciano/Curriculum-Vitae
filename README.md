@@ -22,8 +22,8 @@ Guarulhos, Brazil <br>
 **[Python for Android, iOS, Windows, Linux, Mac - Udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/learn/v4/overview)** *August 2017 - Current* <br>
 Developing with Python and Kivy for professional applications for desktop and mobile.
 
-**[Firebase in a Weekend by Google Android - Udacity](https://udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)** *October 2017* <br>
-Building an chat app in real time using Firebase Realtime Database. [Repository of the chat app built](https://github.com/LiuSilva/and-nd-firebase).
+**[Introduction to Python Programming - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)** *March 2021* <br>
+Learning the basics of programming through HTML, CSS, and Python. [Repository of the program built](https://github.com/LiuSilva/and-nd-firebase).
 
 **[Git and GitHub - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *October 2017* <br>
 Introduction to Version Control with Git and GitHub.
