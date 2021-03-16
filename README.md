@@ -10,16 +10,16 @@ I am a simple person and at the same time a curious person and with an immense d
 
 ## Education
 
+**Barchelor in Control and Automation Engineering** *aug 2018 - at the moment* <br>
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
+Guarulhos, Brazil <br>
+
 **Licentiate in Mathematics** *jan 2011 - june 2018* <br>
 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
 Guarulhos, Brazil <br>
 > License's Thesis: The origin of school tragedy in Prussia: culture, education and the Greek spirit in the early writings of Nietzsche (in portuguese). <br>
 > Advisor: Prof. Hamilton Piva Dominguez, PhD. <br>
 > GPA: 7/10 <br>
-
-**Barchelor in Control and Automation Engineering** *aug 2018 - at the moment* <br>
-Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
-Guarulhos, Brazil <br>
 
 **Technical in Chemistry** *aug 2010 - aug 2012* <br>
 Centro Estadual de Educação Tecnológica Paula Souza, CEETEPS <br>
