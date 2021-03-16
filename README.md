@@ -19,7 +19,7 @@ Guarulhos, Brazil <br>
 
 ## Complementary Education
 
-**[Python for Android, iOS, Windows, Linux, Mac - Udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/learn/v4/overview)** *August 2017 - Current* <br>
+**[Python for Android, iOS, Windows, Linux, Mac - Udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/learn/v4/overview)** *March 2021 - Current* <br>
 Developing with Python and Kivy for professional applications for desktop and mobile.
 
 **[Introduction to Python Programming - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)** *March 2021* <br>
