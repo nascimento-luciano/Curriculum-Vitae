@@ -21,6 +21,10 @@ Guarulhos, Brazil <br>
 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
 Guarulhos, Brazil <br>
 
+**Technical in Chemistry** *aug 2010 - aug 2012* <br>
+Centro Estadual de Educação Tecnológica Paula Souza, CEETEPS <br>
+São Paulo, Brazil <br>
+
 ## Complementary Education
 
 **[Python for Android, iOS, Windows, Linux, Mac - Udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/learn/v4/overview)** *March 2021 - Current* <br>
