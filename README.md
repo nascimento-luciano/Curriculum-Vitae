@@ -56,6 +56,9 @@ Create projects that integrate programming and electronics, using the Arduino bo
 **[Unraveling Industry 4.0](http://www.sp.senai.br/consulta-certificado?qrcode=0008041/5383137)** *February 2021* <br>
 Introduce Industry 4.0, providing the student with an introduction to the topic and obtaining the conceptual basis for the enabling technologies that support Industry 4.0.
 
+**[Introdução à Eficiência Energética em Habitação de Interesse Social - EEHIS](http://www.capacidades.gov.br/certificado/imprimir/id/979)** *April 2021* <br>
+O Curso a distância de autoinstrução Introdução à Eficiência Energética em Habitação de Interesse Social (EEHIS)  tem por objetivo introduzir conhecimentos básicos de Eficiência Energética no contexto da sustentabilidade, com foco nas demandas e potenciais das Habitações de Interesse Social no Brasil. Assim, capacita agentes na promoção da melhoria da qualidade de vida das pessoas, atreladas às soluções técnicas viáveis e alinhadas às diretrizes de conservação de energia. O conteúdo é fundamental e necessário na concepção, avaliação e aprovação de projetos de HIS.
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
