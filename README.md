@@ -57,7 +57,7 @@ Create projects that integrate programming and electronics, using the Arduino bo
 Introduce Industry 4.0, providing the student with an introduction to the topic and obtaining the conceptual basis for the enabling technologies that support Industry 4.0.
 
 **[Introdução à Eficiência Energética em Habitação de Interesse Social - EEHIS](http://www.capacidades.gov.br/certificado/imprimir/id/979)** *April 2021* <br>
-O Curso a distância de autoinstrução Introdução à Eficiência Energética em Habitação de Interesse Social (EEHIS)  tem por objetivo introduzir conhecimentos básicos de Eficiência Energética no contexto da sustentabilidade, com foco nas demandas e potenciais das Habitações de Interesse Social no Brasil. Assim, capacita agentes na promoção da melhoria da qualidade de vida das pessoas, atreladas às soluções técnicas viáveis e alinhadas às diretrizes de conservação de energia. O conteúdo é fundamental e necessário na concepção, avaliação e aprovação de projetos de HIS.
+The self-instructional distance course Introduction to Energy Efficiency in Housing of Social Interest (EEHIS) aims to introduce basic knowledge of Energy Efficiency in the context of sustainability, with a focus on the demands and potential of Social Interest Housing in Brazil. Thus, it trains agents to promote the improvement of people's quality of life, linked to viable technical solutions and aligned with energy conservation guidelines. Content is essential and necessary in the design, evaluation and approval of HIS projects.
 
 ## Scholarship
 
