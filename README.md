@@ -59,6 +59,9 @@ Introduce Industry 4.0, providing the student with an introduction to the topic 
 **[Introdução à Eficiência Energética em Habitação de Interesse Social - EEHIS](http://www.capacidades.gov.br/certificado/imprimir/id/979)** *April 2021* <br>
 The self-instructional distance course Introduction to Energy Efficiency in Housing of Social Interest (EEHIS) aims to introduce basic knowledge of Energy Efficiency in the context of sustainability, with a focus on the demands and potential of Social Interest Housing in Brazil. Thus, it trains agents to promote the improvement of people's quality of life, linked to viable technical solutions and aligned with energy conservation guidelines. Content is essential and necessary in the design, evaluation and approval of HIS projects.
 
+**[HCIA-5G Course]https://ilearningx.huawei.com/portal/certificates/81a73afd528f49c8872b86f1a6878d66)** *May 2021* <br>
+HCIA preparatory in 5G networks authored by Huawei ICT Academy in partnership with the Federal University of Tocantins.
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
