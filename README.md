@@ -65,7 +65,7 @@ HCIA preparatory in 5G networks authored by Huawei ICT Academy in partnership wi
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
-Scientific Initiation (CI) Modality.
+Scientific Initiation (IC) Modality.
 Thesis: Antigone - a philosophical analysis (in portuguese). <br>
 
 
