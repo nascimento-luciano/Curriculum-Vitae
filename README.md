@@ -63,7 +63,7 @@ The self-instructional distance course Introduction to Energy Efficiency in Hous
 **[HCIA-5G Course](https://ilearningx.huawei.com/portal/certificates/81a73afd528f49c8872b86f1a6878d66)** *May 2021* <br>
 HCIA preparatory in 5G networks authored by Huawei ICT Academy in partnership with the Federal University of Tocantins.
 
-**[Desenvolvimento Ágil - DevOps GIT](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2490-21693.pdf)** *Ago 2021* <br>
+**[Agile Development - DevOps GIT](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2490-21693.pdf)** *Ago 2021* <br>
 Showing software engineering concepts for configuration management, Git will be presented as versioning technology, concepts, installation and practical use, with GitHub.
 
 ## Scholarship
