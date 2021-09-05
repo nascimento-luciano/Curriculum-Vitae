@@ -69,6 +69,9 @@ Showing software engineering concepts for configuration management, Git will be 
 **[IOT: Arduino IOT Laboratory](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2486-21693.pdf)** *Ago 2021* <br>
 Present Arduino development platform for IoT solutions with practical examples.
 
+**[Web Scraping com Python (Parte 1)](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2492-21693.pdf)** *Ago 2021* <br>
+In this course we will cover basic web data scraping concepts, tools, and techniques for collecting, cleaning, and analyzing information. We will also discuss real examples of data scraping and good practices of this type of collection, in addition to presenting the resources available in the Python language and in the Beautiful Soup and Pandas libraries for performing requests and extracting information from the Web programmatically. Finally, we will carry out a practical activity in order to collect data on a property rental website for further cleaning and analysis of information.
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
