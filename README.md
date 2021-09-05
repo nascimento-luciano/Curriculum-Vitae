@@ -10,18 +10,18 @@ I am a simple person and at the same time a curious person and with an immense d
 
 ## Education
 
-**Barchelor in Control and Automation Engineering** *aug 2018 - at the moment* <br>
+**Barchelor in Control and Automation Engineering** *August 2018 - at the moment* <br>
 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
 Guarulhos, Brazil <br>
 
-**Licentiate in Mathematics** *jan 2011 - june 2018* <br>
+**Licentiate in Mathematics** *January 2011 - June 2018* <br>
 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Guarulhos (IFSP) <br>
 Guarulhos, Brazil <br>
 > License's Thesis: The origin of school tragedy in Prussia: culture, education and the Greek spirit in the early writings of Nietzsche (in portuguese). <br>
 > Advisor: Prof. Hamilton Piva Dominguez, PhD. <br>
 > GPA: 7/10 <br>
 
-**Technical in Chemistry** *aug 2010 - aug 2012* <br>
+**Technical in Chemistry** *August 2010 - August 2012* <br>
 Centro Estadual de Educação Tecnológica Paula Souza, CEETEPS <br>
 São Paulo, Brazil <br>
 > Technician's Thesis: Microbiological analysis of street foods by counting mesophilic bacteria (in portuguese). <br>
@@ -63,16 +63,16 @@ The self-instructional distance course Introduction to Energy Efficiency in Hous
 **[HCIA-5G Course](https://ilearningx.huawei.com/portal/certificates/81a73afd528f49c8872b86f1a6878d66)** *May 2021* <br>
 HCIA preparatory in 5G networks authored by Huawei ICT Academy in partnership with the Federal University of Tocantins.
 
-**[Agile Development - DevOps GIT](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2490-21693.pdf)** *Ago 2021* <br>
+**[Agile Development - DevOps GIT](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2490-21693.pdf)** *August 2021* <br>
 Showing software engineering concepts for configuration management, Git will be presented as versioning technology, concepts, installation and practical use, with GitHub.
 
-**[IOT: Arduino IOT Laboratory](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2486-21693.pdf)** *Ago 2021* <br>
+**[IOT: Arduino IOT Laboratory](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2486-21693.pdf)** *August 2021* <br>
 Present Arduino development platform for IoT solutions with practical examples.
 
-**[Web Scraping com Python (Parte 1)](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2492-21693.pdf)** *Ago 2021* <br>
+**[Web Scraping com Python (Parte 1)](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2492-21693.pdf)** *August 2021* <br>
 In this course we will cover basic web data scraping concepts, tools, and techniques for collecting, cleaning, and analyzing information. We will also discuss real examples of data scraping and good practices of this type of collection, in addition to presenting the resources available in the Python language and in the Beautiful Soup and Pandas libraries for performing requests and extracting information from the Web programmatically. Finally, we will carry out a practical activity in order to collect data on a property rental website for further cleaning and analysis of information.
 
-**[Energyplus A Tool for Building Energy Simulation](https://cce.puc-rio.br/autenticar)** *Ago 2021* <br>
+**[Energyplus A Tool for Building Energy Simulation](https://cce.puc-rio.br/autenticar)** *August 2021* <br>
 Presentation of the EnergyPlus software, its functionalities and examples of results obtained with the energy simulations of buildings. Open class aimed at specific analysis of thermal and energy efficiency of buildings and thermal comfort of the occupants.
 > Certificate Code: X1XV9E12EC
 
