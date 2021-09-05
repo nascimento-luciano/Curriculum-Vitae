@@ -66,6 +66,9 @@ HCIA preparatory in 5G networks authored by Huawei ICT Academy in partnership wi
 **[Agile Development - DevOps GIT](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2490-21693.pdf)** *Ago 2021* <br>
 Showing software engineering concepts for configuration management, Git will be presented as versioning technology, concepts, installation and practical use, with GitHub.
 
+**[IOT: Arduino IOT Laboratory](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2486-21693.pdf)** *Ago 2021* <br>
+Present Arduino development platform for IoT solutions with practical examples.
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
