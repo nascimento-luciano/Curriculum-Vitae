@@ -43,7 +43,7 @@ Introduction to Version Control with Git and GitHub.
 
 **[Artificial Intelligence in Context Public Service](https://www.escolavirtual.gov.br/documentos/validacao/certificado)** *March 2021* <br>
 This course brought concepts, suggestions of technologies and experiences of application of Artificial Intelligence (AI)
-Certificate Code: fCwr4480290rk88
+> Certificate Code: fCwr4480290rk88
 
 **[Learning to Program](https://codeiot.org.br/certificates/f87f6a5215a14cb7921ae6eef91dc46e)** *March 2021* <br>
 In this course, it aims to take the first steps in the universe of programming.
