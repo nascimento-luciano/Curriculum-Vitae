@@ -41,7 +41,7 @@ Learning the basics of programming through HTML, CSS, and Python. [Repository of
 **[Git and Github for Beginners - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *March 2021* <br>
 Introduction to Version Control with Git and GitHub.
 
-**[Artificial Intelligence in Context Public Service](https://www.escolavirtual.gov.br/documentos/validacao/certificado)** *March 2021* <br>
+**[Artificial Intelligence in Context Public Service](https://www.escolavirtual.gov.br/documentos/validacao)** *March 2021* <br>
 This course brought concepts, suggestions of technologies and experiences of application of Artificial Intelligence (AI)
 > Certificate Code: fCwr4480290rk88
 
