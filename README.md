@@ -76,6 +76,10 @@ In this course we will cover basic web data scraping concepts, tools, and techni
 Presentation of the EnergyPlus software, its functionalities and examples of results obtained with the energy simulations of buildings. Open class aimed at specific analysis of thermal and energy efficiency of buildings and thermal comfort of the occupants.
 > Certificate Code: X1XV9E12EC
 
+**[5G NETWORK TO](http://www.uft.edu.br/autenticacao)** *February 2021* <br>
+Huawei Training and Certification - HCIA on 5G networks - Huawei Certified ICT Associate - HCIA.
+> Certificate Code: C1202-3DF09-39B77-8BF16-SONAI
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
