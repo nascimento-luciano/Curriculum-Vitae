@@ -80,6 +80,9 @@ Presentation of the EnergyPlus software, its functionalities and examples of res
 Huawei Training and Certification - HCIA on 5G networks - Huawei Certified ICT Associate - HCIA.
 > Certificate Code: C1202-3DF09-39B77-8BF16-SONAI
 
+**[MathWorks - Training Services](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fe93ad1e-2e3a-40d5-a91f-a4b891914eb5&)** *September 2021* <br>
+MATLAB® Fundamentals course on commonly used features and workflows.
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
