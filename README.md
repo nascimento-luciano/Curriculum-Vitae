@@ -83,6 +83,10 @@ Huawei Training and Certification - HCIA on 5G networks - Huawei Certified ICT A
 **[MathWorks - Training Services](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fe93ad1e-2e3a-40d5-a91f-a4b891914eb5&)** *September 2021* <br>
 MATLAB® Fundamentals course on commonly used features and workflows.
 
+**[Free Hardware Brazil - Spain](https://www.cursoselebrasil.com.br)** *September 2021* <br>
+Course on free hardware between Spain and Brazil, as well as encouraging the maker culture and knowledge and use of free hardware among Brazilian teachers and students.
+> Certificate Code: 8545d41b87
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
