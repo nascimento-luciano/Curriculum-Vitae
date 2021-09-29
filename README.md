@@ -87,6 +87,24 @@ MATLAB® Fundamentals course on commonly used features and workflows.
 Course on free hardware between Spain and Brazil, as well as encouraging the maker culture and knowledge and use of free hardware among Brazilian teachers and students.
 > Certificate Code: 8545d41b87
 
+**[Data Science: Data Visualization with Python (Part 2)](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2541-21693.pdf)** *September 2021* <br>
+
+**[Opinion Mining with Python](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2543-21693.pdf)** *September 2021* <br>
+
+**[Workshop: Design Thinking](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2544-21693.pdf)** *September 2021* <br>
+
+**[Python language: learning the language (Part 2)](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2547-21693.pdf)** *September 2021* <br>
+
+**[Backend and Database Lab with MongoDB](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2548-21693.pdf)** *September 2021* <br>
+
+**[Introduction to UI and UX for Digital Games)](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2549-21693.pdf)** *September 2021* <br>
+
+**[Data Science: Data Analysis Fundamentals with Orange](http://srv.oceanbrasil.com:8000/certificates/certificado-22-2555-21693.pdf)** *September 2021* <br>
+
+**[Python language: learning the language (Part 3)](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2556-21693.pdf)** *September 2021* <br>
+
+**[UX Topics for AI: Omnichannel Experiences](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2559-21693.pdf)** *September 2021* <br>
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
