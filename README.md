@@ -108,6 +108,10 @@ Course on free hardware between Spain and Brazil, as well as encouraging the mak
 
 **[UX Topics for AI: Omnichannel Experiences](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2559-21693.pdf)** *September 2021* <br>
 
+**[IA e IoT para Cidades Inteligentes](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2564-21693.pdf)** *September 2021* <br>
+
+**[Android: Laboratório](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2588-21693.pdf)** *September 2021* <br>
+
 **[XVIII Congresso Latino-Americano de Software Livre e Tecnologias Abertas - Latinoware](https://vp2uploads.s3.amazonaws.com/17060/certificado/97d0f4505039446cd5e81653202a212753b8b18d.pdf)** *October 2021* <br>
 
 ## Scholarship
