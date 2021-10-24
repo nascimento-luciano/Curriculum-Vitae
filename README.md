@@ -142,7 +142,7 @@ Working with the first team of the junior company for designing, implementing an
 ## Skills
 
 #### Programming Languages
-C/C++, Python
+C/C++, Python, Assembly
 
 #### Technologies
 Arduino, Embedded Systems, Android SDK, Python, Git, Linux, Windows, Machine Learning, Deep Learning, PLN, Computer Vision, Jupyter Notebook, TensorFlow e Keras
