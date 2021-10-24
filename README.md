@@ -116,6 +116,10 @@ Course on free hardware between Spain and Brazil, as well as encouraging the mak
 
 ## Scholarship
 
+**Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2021* <br>
+Scientific Initiation (IC) Modality.
+Thesis: The problem of nihilism from Nietzsche and Dostoevsky (in portuguese). <br>
+
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2020* <br>
 Scientific Initiation (IC) Modality.
 Thesis: Antigone - a philosophical analysis (in portuguese). <br>
