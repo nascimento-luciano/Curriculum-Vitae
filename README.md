@@ -128,16 +128,6 @@ Thesis: Antigone - a philosophical analysis (in portuguese). <br>
 **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES** *February 2018* <br>
 Institutional Teaching Initiation Scholarship Program - Pibid, in the subproject Pibid.
 
-## Experience
-
-**Backend Developer, [Studio Sol](https://www.studiosol.com.br/)** *December 2017 - Current* <br>
-Developing using Go as main languange at the team of [Letras.mus.br](https://www.letras.mus.br/) project.
-
-**Android Developer, [OutroTurismo](http://outroturismo.com.br/)** *May 2016 - August 2017* <br>
-Developed the android app for the company with several technologies like Android Native, RESTful Web Service and PHP.
-
-**Web Developer, [Next Step](http://nextstepsi.com.br/)** *March 2016 - August 2017* <br>
-Working with the first team of the junior company for designing, implementing and deploying websites for clients of the company using technologies like HTML, PHP, JavaScript (jQuery) and tools for remote working with the team.
 
 ## Skills
 
