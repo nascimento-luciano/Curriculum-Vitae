@@ -114,6 +114,12 @@ Course on free hardware between Spain and Brazil, as well as encouraging the mak
 
 **[XVIII Congresso Latino-Americano de Software Livre e Tecnologias Abertas - Latinoware](https://vp2uploads.s3.amazonaws.com/17060/certificado/97d0f4505039446cd5e81653202a212753b8b18d.pdf)** *October 2021* <br>
 
+**[Cybersecurity Essentials](https://www.credly.com/earner/earned/badge/ead87491-e784-4ef9-b8e1-e2eed18ec404)** *March 2022* <br>
+
+**[CCNA: Introduction to Networks](https://www.credly.com/earner/earned/badge/5f6b4ce4-e79d-4de4-954f-b461de8a278f)** *February 2022* <br>
+
+**[Networking Academy Learn-A-Thon 2021](https://www.credly.com/earner/earned/badge/19862d0d-e804-42d4-b76d-7f9b781ce3a1)** *April 2022* <br>
+
 ## Scholarship
 
 **Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq** *June 2021* <br>
