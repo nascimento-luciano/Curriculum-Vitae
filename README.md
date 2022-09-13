@@ -154,3 +154,12 @@ Technology, Programming, Engineering, Mathematical Applications, Philosophy, Sci
 
 <a href="https://www.linkedin.com/in/nascimento-luciano/" target="_blank">
 <img src="http://icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" alt="linkedin" hspace="50" height="48" width="48"></a>
+
+
+<p align="left">
+<a href="https://linkedin.com/in/nascimento-luciano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nascimento-luciano/" height="30" width="40" /></a>
+<a href="https://kaggle.com/nascimento-luciano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nascimento-luciano/" height="30" width="40" /></a>
+<a href="https://fb.com/satanaquia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satanaquia" height="30" width="40" /></a>
+<a href="https://instagram.com/satanaquia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satanaquia" height="30" width="40" /></a>
+<a href="https://discord.gg/luci@2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luci@2307" height="30" width="40" /></a>
+</p>
