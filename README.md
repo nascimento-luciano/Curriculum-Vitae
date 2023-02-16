@@ -138,7 +138,7 @@ Institutional Teaching Initiation Scholarship Program - Pibid, in the subproject
 ## Skills
 
 #### Programming Languages
-C/C++, Python, Assembly
+C/C++, Python, Assembly, Java, HTML, PHP
 
 #### Technologies
 Arduino, Embedded Systems, Android SDK, Python, Git, Linux, Windows, Machine Learning, Deep Learning, PLN, Computer Vision, Jupyter Notebook, TensorFlow e Keras
